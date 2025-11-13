@@ -1,0 +1,9 @@
+{
+	"name": "prac-adf001",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b4d86bac-3433-450e-9caf-2bf8f16f61fb",
+		"tenantId": "b2365c00-fb7b-4962-a963-bbb03c86b14c"
+	}
+}
